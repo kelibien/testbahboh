@@ -14,6 +14,6 @@ function calculateGrade(score) {
   }
   
   console.log(calculateGrade(85)); // ควรได้ A
-  console.log(calculateGrade(73)); // ควรได้ B
-  console.log(calculateGrade("90")); // บั๊ก 2: ส่ง string เข้ามา แต่ยังไม่แปลงเป็นตัวเลข
+  //console.log(calculateGrade(73)); // ควรได้ B
+//12345y
   
